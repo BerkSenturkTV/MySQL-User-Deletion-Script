@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 
+=======
+### README.md
+
+```markdown
+>>>>>>> 427a095a5fcd151d3da3582f6028d0196e7f067e
 # MySQL User Deletion Script
 
 This project provides a Python script to securely delete user IDs (UIDs) from a MySQL database. It is designed for simplicity, security, and efficiency, ensuring a smooth experience for database administrators and developers.
@@ -111,3 +117,8 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## 📧 Contact
 If you have any questions or suggestions, feel free to reach out:
 - **Email:** berksenturk00@gmail.com
+<<<<<<< HEAD
+=======
+```
+
+>>>>>>> 427a095a5fcd151d3da3582f6028d0196e7f067e
